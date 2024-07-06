@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(80, 75, 75); 
+}
+
+.card {
+    background-color: antiquewhite;
+}
+
+.navbar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.card-img-top{
+    height: 160px;
+}
